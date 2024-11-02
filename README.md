@@ -1,5 +1,5 @@
-![Water GIF](gifs/water_still.gif)
 # Minecraft Liquid GIF Maker
+![Water GIF](gifs/water_still.gif)
 ![Lava GIF](gifs/lava_still.gif)
 
 <p>
