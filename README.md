@@ -16,6 +16,7 @@ Looks for fluid texture files in the specified directory and processes all of th
 <p>Pillow for Python (https://pypi.org/project/pillow/)</p>
 
 <h2>Usage</h2>
+
 ```python3 liquid_gif_maker.py source_directory gif_directory gif_scale_factor```
 ```source_directory``` <p>is the directory which contains the .png and .png.mcmeta texture files</p>
 ```gif_directory``` <p>is the directory where you want the GIFs to be exported to</p>
