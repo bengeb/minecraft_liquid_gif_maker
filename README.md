@@ -1,5 +1,6 @@
 # Minecraft Liquid GIF Maker
 <h1>Works on vanilla and modded fluids!</h1>
+
 ![Water GIF](gifs/water_still.gif)
 ![Lava GIF](gifs/lava_still.gif)
 ![Resonant Ender GIF](gifs/thermal_116/ender_still.gif)
