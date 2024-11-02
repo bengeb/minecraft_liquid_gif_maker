@@ -18,7 +18,7 @@ def makeGIF(directoryIn, directoryOut, fluidname, gifDelayBase, scaleFactor):
     metaFile = open(filename + ".mcmeta")
     for line in metaFile:
         tokens = line.strip().split(" ")
-        tokens = [re.sub('[\W_]+', '', token) for token in tokens]
+        tokens = [re.sub('[\\W_]+', '', token) for token in tokens]
         #print(tokens)
         if (tokens[0] == "interpolate"):
             doInterp = (tokens[1][0] == "t")
