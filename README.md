@@ -11,15 +11,15 @@
 
 <p>Note that this currently only works for still fluid textures, not flowing ones.</p>
 
-<p>The gifs directory contains GIFs of fluids from a variety of mods, for folks who don't want to mess around with the program.</p>
+<p>The gifs directory contains GIFs of fluids from a variety of mods, for folks who don't want to mess around with the program. For folks who do...</p>
 
 <h2>Requirements</h2>
-<p>Python 3 (https://www.python.org/downloads/)</p>
+<p>Python (https://www.python.org/downloads/)</p>
 <p>Pillow for Python (https://pypi.org/project/pillow/)</p>
 
 <h2>Usage</h2>
 
-```python3 liquid_gif_maker.py source_directory gif_directory gif_scale_factor```
+```python liquid_gif_maker.py source_directory gif_directory gif_scale_factor```
 
 <p></p>
 
