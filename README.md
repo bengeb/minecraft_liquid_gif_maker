@@ -7,9 +7,9 @@
 ![Energized Glowstone GIF](gifs/thermal_116/glowstone_still.gif)
 ![Molten Manyullyn GIF](gifs/tinkers_1710/liquid_manyullyn.gif)
 
-<p>
-Looks for fluid texture files in the specified directory and processes all of them into animated .gif files. Uses the associated .png.mcmeta file for each texture file to determine the animation's speed, as well as whether the frames should be interpolated (each frame fades out instead of jumping to the next immediately) and/or reordered (as is done with the lava texture).
-</p>
+<p>Looks for fluid texture files in the specified directory and processes all of them into animated .gif files. Uses the associated .png.mcmeta file for each texture file to determine the animation's speed, as well as whether the frames should be interpolated (each frame fades out instead of jumping to the next immediately) and/or reordered (as is done with the lava texture).</p>
+
+<p>Note that this currently only works for still fluid textures, not flowing ones.</p>
 
 <h2>Requirements</h2>
 <p>Python 3 (https://www.python.org/downloads/)</p>
