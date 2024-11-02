@@ -1,6 +1,10 @@
 # Minecraft Liquid GIF Maker
+<h1>Works on vanilla and modded fluids!</h1>
 ![Water GIF](gifs/water_still.gif)
 ![Lava GIF](gifs/lava_still.gif)
+![Resonant Ender GIF](gifs/thermal_116/ender_still.gif)
+![Energized Glowstone GIF](gifs/thermal_116/glowstone_still.gif)
+![Molten Manyullyn GIF](gifs/tinkers_1710/liquid_manyullyn.gif)
 
 <p>
 Looks for fluid texture files in the specified directory and processes all of them into animated .gif files. Uses the associated .png.mcmeta file for each texture file to determine the animation's speed, as well as whether the frames should be interpolated (each frame fades out instead of jumping to the next immediately) and/or reordered (as is done with the lava texture).
