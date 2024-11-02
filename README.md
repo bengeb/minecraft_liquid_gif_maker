@@ -21,6 +21,14 @@
 
 <p></p>
 
-```source_directory``` <p>is the directory which contains the .png and .png.mcmeta texture files</p>
-```gif_directory``` <p>is the directory where you want the GIFs to be exported to</p>
-```gif_scale_factor``` <p>is how much you want the GIFs to be scaled by. Whole integers are recommended. Use 1 if you want the GIFs to be their original size.</p>
+```source_directory```
+
+<p>The directory which contains the .png and .png.mcmeta texture files.</p>
+
+```gif_directory```
+
+<p>The directory where you want the GIFs to be exported to.</p>
+
+```gif_scale_factor```
+
+<p>How much you want the GIFs to be scaled by. Whole integers are recommended. Use 1 if you want the GIFs to be their original size.</p>
